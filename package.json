@@ -1,0 +1,22 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "hangman game / homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deleckie/hangmancli.git"
+  },
+  "author": "d . e . l e c k i e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deleckie/hangmancli/issues"
+  },
+  "homepage": "https://github.com/deleckie/hangmancli#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
